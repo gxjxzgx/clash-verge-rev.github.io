@@ -1,4 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 200 200" width="200" height="200">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+<g transform="translate(0 0) scale(0.24)">
     <g stroke-width="2" fill="none" stroke-linecap="butt">
         <path stroke="#0370c7"
             d="M 66.52 33.32 Q 63.85 34.86 61.01 34.67 A 3.01 3.00 7.3 0 0 57.85 37.10 L 57.22 40.37 Q 57.12 40.84 57.26 41.31 Q 57.52 42.17 57.75 43.01 Q 58.04 44.05 57.48 44.53"
@@ -146,4 +147,5 @@
     <path fill="#61676c"
         d="M 189.88 182.87 C 191.50 183.76 195.83 186.23 192.93 188.44 A 1.70 1.69 -46.8 0 1 190.97 188.51 L 187.78 186.37 L 189.88 182.87 Z"
         data-c-fill="61676c" />
+</g>
 </svg>
